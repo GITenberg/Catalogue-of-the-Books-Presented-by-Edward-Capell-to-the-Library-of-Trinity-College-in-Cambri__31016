@@ -1,0 +1,31 @@
+_repo: Catalogue-of-the-Books-Presented-by-Edward-Capell-to-the-Library-of-Trinity-College-in-Cambri__31016
+_version: 0.1.0
+contributor:
+  compiler:
+    agent_name: Greg, W. W. (Walter Wilson)
+    aliases:
+    - Greg, Walter Wilson, Sir
+    - Greg, Walter W. (Walter Wilson)
+    birthdate: 1875
+    deathdate: 1959
+    gutenberg_agent_id: '4263'
+    url: http://www.gutenberg.org/2009/agents/4263
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2010-01-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31016'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Trinity College (University of Cambridge). Library -- Catalogs'
+- !lcsh 'Shakespeare, William, 1564-1616 -- Bibliography -- Catalogs'
+- !lcc 'Z'
+title: Catalogue of the Books Presented by Edward Capell to the Library of Trinity
+  College in Cambridge
+url: http://www.gutenberg.org/ebooks/31016
