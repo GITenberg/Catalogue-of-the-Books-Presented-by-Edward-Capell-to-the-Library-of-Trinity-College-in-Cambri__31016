@@ -14,6 +14,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31016#Catalogue-of-the-Books-Presented-by-Edward-Capell-to-the-Library-of-Trinity-College-in-Cambri_
 gutenberg_issued: '2010-01-18'
 gutenberg_type: Text
 identifiers:
